@@ -10,5 +10,5 @@
 - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)-详细教程
 
 ## Python
-- [草根学Python](https://github.com/TwoWater/Python)-简明教程
+- [草根学Python](https://www.readwithu.com)-简明教程
 - [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)-详细教程
