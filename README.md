@@ -14,4 +14,4 @@
 - [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)-详细教程
 
 ## Django
-- [Django教程](https://www.runoob.com/django/django-tutorial.html)-简明教程
+- [Django菜鸟教程](https://www.runoob.com/django/django-tutorial.html)-简明教程
