@@ -15,3 +15,4 @@
 
 ## Django
 - [Django菜鸟教程](https://www.runoob.com/django/django-tutorial.html)-简明教程
+- [Django官方教程](https://docs.djangoproject.com/zh-hans/2.2/intro/)
